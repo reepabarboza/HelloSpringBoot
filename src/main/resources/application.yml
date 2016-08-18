@@ -1,0 +1,4 @@
+helloController:
+          msg: "Hello"
+          foo: "Foo"
+          bar: "Bar"
