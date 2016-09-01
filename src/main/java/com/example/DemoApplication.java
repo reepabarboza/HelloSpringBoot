@@ -29,10 +29,6 @@ public class DemoApplication {
 		Arrays.sort(beanNames);
 		for (String name : beanNames) {
 			System.out.println(name);
-		}
-*/
-		//System.out.println(ctx.getBean("user").toString());
-
-        System.out.println(ctx.getBean("datasource").toString());
+		}*/
  	}
 }
