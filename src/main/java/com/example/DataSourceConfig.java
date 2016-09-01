@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
 /**
- * Created by pradeep on 01-06-2016.
+ * Created by reepa on 01-06-2016.
  */
 @Configuration
 public class DataSourceConfig {

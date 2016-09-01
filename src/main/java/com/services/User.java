@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by pradeep on 01-06-2016.
+ * Created by reepa on 01-06-2016.
  */
 @Component
 @ConfigurationProperties(prefix="user")
